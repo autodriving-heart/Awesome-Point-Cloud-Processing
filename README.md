@@ -19,15 +19,15 @@
 
 [[Awesome-LiDAR-Camera-Calibration]](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 
-## 一、**点云补全** | Point cloud completion
+## 一、Point cloud completion
 
-### 1.**基于深度学习的3D点云补全全面综述** | Survey
+### 1. Survey
 
 Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis
 
-## 二、**代码大全** | Code
+## 二、Code
 
-### 1.强大的点云处理库 | Point Cloud Library
+### 1. Point Cloud Repository
 
 [[Link]](https://github.com/PointCloudLibrary/pcl)
 
